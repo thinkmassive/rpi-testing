@@ -1,0 +1,10 @@
+Disk /dev/sda1: 447.1 GiB, 480080036352 bytes, 937656321 sectors
+Begin: 20190311-02:14:29
+End: 20190311-02:27:16
+Write:
+1 134217728 bytes (134 MB, 128 MiB) copied, 3.73589 s, 35.9 MB/s
+100 134217728 bytes (134 MB, 128 MiB) copied, 3.77483 s, 35.6 MB/s
+Read:
+1 134217728 bytes (134 MB, 128 MiB) copied, 12.0788 s, 11.1 MB/s
+100 134217728 bytes (134 MB, 128 MiB) copied, 3.49705 s, 38.4 MB/s
+

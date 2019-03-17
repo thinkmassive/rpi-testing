@@ -1,0 +1,31 @@
+Beginning benchmark: DEV=/dev/sda2 COUNT=100 DIR=/mnt/benchmark
+
+/dev/sda2:
+
+ATA device, with non-removable media
+Standards:
+	Likely used: 1
+Configuration:
+	Logical		max	current
+	cylinders	0	0
+	heads		0	0
+	sectors/track	0	0
+	--
+	Logical/Physical Sector size:           512 bytes
+	device size with M = 1024*1024:           0 MBytes
+	device size with M = 1000*1000:           0 MBytes 
+	cache/buffer size  = unknown
+Capabilities:
+	IORDY not likely
+	Cannot perform double-word IO
+	R/W multiple sector transfer: not supported
+	DMA: not supported
+	PIO: pio0 
+
+NAME FSTYPE LABEL  UUID                                 MOUNTPOINT
+sda2 ext4   rootfs 29075e46-f0d4-44e2-a9e7-55ac02d6e6cc /mnt
+
+Disk /dev/sda2: 29.8 GiB, 31960596480 bytes, 62423040 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
